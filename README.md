@@ -1,12 +1,12 @@
 # TChess
-**Date**: July 2021
-**Language**: JavaScript
+**Date**: July 2021  
+**Language**: JavaScript  
 This library is used for chess moves generation, validation, checkmates, etc ...
 
 ## Special moves
-These special moves are included:
-    - "En passant"
-    - Castling
+These special moves are included:  
+    - "En passant"  
+    - Castling  
     - Promotions
 
 ## Usage
